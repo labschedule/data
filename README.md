@@ -1,4 +1,4 @@
-# data
+# Data
 
 Private repository.
 
