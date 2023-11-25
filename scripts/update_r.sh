@@ -2,7 +2,7 @@
 
 while :
 do
-  sleep 1h
   git pull
+  sleep 1h
 done
 
