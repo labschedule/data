@@ -6,6 +6,9 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 # Change the current working directory to the script's directory
 cd "$SCRIPT_DIR"
 
+# Change directory to project directory
+cd ..
+
 # pull files every hour
 
 while :
