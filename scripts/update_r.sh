@@ -9,11 +9,4 @@ cd "$SCRIPT_DIR"
 # Change directory to project directory
 cd ..
 
-# pull files every hour
-
-while :
-do
-  git pull
-  sleep 1h
-done
-
+git pull
